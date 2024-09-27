@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full stack Web Developer
 ------------------------
 
-🚀 Hi there! I'm a fresh web developer with expertise in React.js, Git, AWS, DBMS, Python, Linux, Cybersecurity, and Tailwind CSS. I've built responsive e-commerce sites with React, managed version control with Git, and integrated secure login systems with Python. My knowledge extends to AWS cloud solutions, database management, and Linux administration. Eager to contribute my skills, collaborate with teams, and continue learning in a dynamic environment. Let's build something great together! 🔧💻 #WebDeveloper #ReactJS #AWS #Git #Python #TailwindCSS
+🚀 Hi there! I'm a fresh web developer with expertise in React.js, Git, AWS, DBMS, Python, Linux, Cybersecurity, and Tailwind CSS.  My knowledge extends to AWS cloud solutions, database management, and Linux administration. Eager to contribute my skills, collaborate with teams, and continue learning in a dynamic environment. Let's build something great together! 🔧💻 #WebDeveloper #ReactJS #AWS #Git #Python #TailwindCSS
 
 *   🌍  I'm based in Chhatrapati Sambhaji Nager
 *   ✉️  You can contact me at [rishigarad39@gmail.com](mailto:rishigarad39@gmail.com)
